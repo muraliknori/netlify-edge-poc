@@ -10,13 +10,13 @@ path="/hello-template"
 function = "transform-hello-template"
 
 [[redirects]]
-
 from = "/hai"
 to = "hello"
 status = 301
 force = false
 
-from = "/v2/hai"
+[[redirects]]
+from = "/hi"
 to = "hello"
 status = 301
 force = false
