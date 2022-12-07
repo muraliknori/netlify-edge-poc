@@ -1,2 +1,1 @@
-"# netlify-edge-functions" 
-"# netlify-edge-poc" 
+netlify-edge-poc

@@ -14,3 +14,9 @@ from = "/hai"
 to = "hello"
 status = 301
 force = false
+
+[[redirects]]
+from = "/hi"
+to = "hello"
+status = 301
+force = false
