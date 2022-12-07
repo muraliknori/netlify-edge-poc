@@ -8,3 +8,9 @@ function = "hello"
 [[edge_functions]]
 path="/hello-template"
 function = "transform-hello-template"
+
+[[redirects]]
+from = "/hai"
+to = "hello"
+status = 301
+force = false
